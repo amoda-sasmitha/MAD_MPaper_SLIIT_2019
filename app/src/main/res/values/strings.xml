@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">modelPaper</string>
+    <string name="Username" />
+    <string name="user">User Name :</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="dob">Date of Birth</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Gender">Gender</string>
+    <string name="update">Update Profile</string>
+    <string name="Search">Search</string>
+    <string name="XUname">Enter Username</string>
+    <string name="Epassword">Enter Password</string>
+    <string name="EDOB">Enter Date of Birth</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
